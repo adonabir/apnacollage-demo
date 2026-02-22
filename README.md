@@ -1,2 +1,2 @@
 # apnacollage-demo
-Practice
+Just DO IT!
